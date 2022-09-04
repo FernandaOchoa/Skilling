@@ -1,11 +1,14 @@
 # LifeSkills to Power up your career
 
+[**Registro a la conferencia**](https://codigofacilito.com/codigofest)
+
+[![Power up](https://user-images.githubusercontent.com/9124597/188327880-35c9e72e-775f-4b4c-b478-fe717953a0ad.jpeg)](https://codigofacilito.com/codigofest)
+
 ## Aquí puedes encontrar la charla
 [Próximamente - Link a la charla]()
 
 ## Aquí puedes encontrar los slides
-
-[PowerUp Slides PDF](https://github.com/FernandaOchoa/Skilling/blob/main/LifeSkills%20to%20Power%20Up%20your%20career.pdf)
+[![LifeSkills to Power Up your career](https://user-images.githubusercontent.com/9124597/188327902-9464b0ad-011a-4462-8707-9a6666d487ac.png)](https://github.com/FernandaOchoa/Skilling/blob/main/LifeSkills%20to%20Power%20Up%20your%20career.pdf)
 
 ## Únete a la conversación
 [Enlace a la comunidad](https://github.com/FernandaOchoa/Skilling/discussions)
