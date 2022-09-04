@@ -1,6 +1,11 @@
 # LifeSkills to Power up your career
 
+## Aquí puedes encontrar la charla
 
+[Link a la charla]()
+## Aquí puedes encontrar los slides
+
+[PowerUp](https://github.com/FernandaOchoa/Skilling/blob/main/LifeSkills%20to%20Power%20Up%20your%20career.pdf)
 
 # References for Lifeskills to Power up your carreer
 
