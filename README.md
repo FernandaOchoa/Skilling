@@ -11,6 +11,8 @@
 [![LifeSkills to Power Up your career](https://user-images.githubusercontent.com/9124597/188327902-9464b0ad-011a-4462-8707-9a6666d487ac.png)](https://github.com/FernandaOchoa/Skilling/blob/main/LifeSkills%20to%20Power%20Up%20your%20career.pdf)
 
 ## Únete a la conversación
+![image](https://user-images.githubusercontent.com/9124597/188328093-54ae195b-6944-4889-9e3f-a28113da9d36.png)
+
 [Enlace a la comunidad](https://github.com/FernandaOchoa/Skilling/discussions)
 
 # References for Lifeskills to Power up your carreer
